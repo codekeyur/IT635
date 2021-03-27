@@ -1,6 +1,6 @@
 # IT635
 Database Administration Projects
-If you go into the IT635 repository you will find two seperate dir name Midterm Project and patientapp. Both of these is contain an application project but the content and approached in implementation the app is diiferent.
+As you can see here there are two seperate dir name Midterm Project and patientapp. Both of these is contain an application project but the content and approached in implementation the app is diiferent.
 # Midterm Project :
  Here designed app using php, postgres, html and css, so its kinda traditional web app by implimenting front-end and back-end technologies.
 # patientapp :
