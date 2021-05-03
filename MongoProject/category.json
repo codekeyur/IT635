@@ -1,0 +1,24 @@
+{"category": "Consumer Goods","parent":"Baby & Child Products", "_id":"1"}
+{"category": "Consumer Goods","parent":"Clothing", "_id":"11"}
+{"category": "Consumer Goods","parent":"Consumer Electronics", "_id":"12"}
+{"category": "Consumer Goods","parent":"Hosuehold","child":"Furniture", "_id":"13"}
+{"category": "Consumer Goods","parent":"Hosuehold", "child":"Garding Supplies & Equipments", "_id":"14"}
+{"category": "Consumer Goods","parent":"Hosuehold","child":"Cleaners & Pest control", "_id":"15"}
+{"category": "Consumer Goods","parent":"Personal Care Products", "_id":"16"}
+{"category": "Automotive and Transport","parent":"Automotive","child":"Automaotive Parts", "_id":"2"}
+{ "category": "Automotive and Transport","parent":"Automotive","child":"Automaotive Repairs", "_id":"21"}
+{"category": "Automotive and Transport","parent":"Automotive","child":"Automaotive Sales", "_id":"22"}
+{"category": "Automotive and Transport","parent":"Automotive", "child":"Car Fleet", "_id":"23"}
+{"category": "Automotive and Transport","parent":"Automotive","child":"Commericial Vehicles", "_id":"24"}
+{"category": "Automotive and Transport","parent":"Automotive","child":"Motorcycles", "_id":"25"}
+{"category": "Automotive and Transport","parent":"Commericial Aerospace","child":"Avionics", "_id":"26"}
+{"category": "Automotive and Transport","parent":"Maritime","child":"Ports & Harbors Tools", "_id":"27"}
+{"category": "Automotive and Transport","parent":"Maritime","child":"Fishing Vesselese & Equipments", "_id":"28"}
+{"category": "Chemicals And Materials","parent":"Adhesives & Sealants","child":"Construction Adhesive", "_id":"3"}
+{"category": "Chemicals And Materials","parent":"Adhesives & Sealants","child":"Acrylic Adhesive", "_id":"31"}
+{"category": "Chemicals And Materials","parent":"Adhesives & Sealants","child":"Expoy Adhesive", "_id":"32"}
+{"category": "Chemicals And Materials","parent":"Ceramics","child":"Clay & Porcelain", "_id":"33"}
+{"category": "Chemicals And Materials","parent":"Chemicals","child":"Agrochemicals & Fertilizers", "_id":"34"}
+{"category": "Chemicals And Materials","parent":"Chemicals","child":"Catalysts", "_id":"35"}
+{"category": "Chemicals And Materials","parent":"Chemicals","child":"Food Additive Chemicals", "_id":"36"}
+{"category": "Chemicals And Materials","parent":"Chemicals","child":"Lubricants", "_id":"37"}
