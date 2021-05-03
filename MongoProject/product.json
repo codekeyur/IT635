@@ -1,0 +1,152 @@
+{   "_id":"1",
+    "sku": "1731LAB65",
+    "title": "Sterilite Container",
+    "description:":"The toughest & strongest plastic container in the market .....",
+
+    "category":{"name":"Consumer Goods", 
+                 "_id":"13"
+                },
+  
+    "manufacture_details": {
+    "model_number":"A123X",
+    "maufacture":"Stertile Corp.",
+    "city":"Mentor",
+    "State": "OH",
+    "release_date": "2008-05-17 08:14:15.656 "
+    },
+  
+    "shipping_details": {
+      "weight": 350,
+      "width": 46.7,
+      "height": 41,
+      "size": 18
+    },
+
+    "quantity": 99,
+    "price": 12.99
+  }
+
+
+
+  { 
+    "_id":"2",      
+    "sku": "173181924",
+    "title": "Monroe Shocks & Struts",
+    "description:":"The high-carbon steel and premium components",
+
+    "category":{"name":"Automotive and Transport", 
+      "_id":"2"
+     },
+  
+    "manufacture_details": {
+    "model_number":"A123X",
+    "maufacture":"Monroe Shocks & Struts",
+    "city":"Monroe",
+    "State": "MI",
+    "release_date": "2010-12-17 05:14:15.656 "
+    },
+  
+    "shipping_details": {
+      "weight": 550,
+      "width": 10.17,
+      "height": 6.25,
+      "size": 18
+    },
+  
+    "quantity": 6,
+    "price": 109.99
+    
+  }
+
+
+  { 
+    "_id":"3",
+    "sku": "840164712605",
+    "title": "BeSafe Hand Sanitizer",
+    "description:":"Santizier with moisturizer",
+
+    "category":{"name":"Chemicals And Materials", 
+      "_id":"3"
+     },
+  
+    "manufacture_details": {
+    "model_number":"A123X",
+    "maufacture":"BeSafe Industries",
+    "city":"Coral Gables",
+    "State": "FL",
+    "release_date": "2020-05-17 08:14:15.656 "
+    },
+  
+    "shipping_details": {
+      "weight": 60.38,
+      "width": 4,
+      "height": 3,
+      "size": 18
+    },
+  
+    "quantity": 100,
+    "price": 15.99
+    
+  }
+
+
+  { 
+    "_id":"4",
+    "sku": "073310465807",
+    "title": "Angel Soft Facial Tissue",
+    "description:":"Angel Soft Facial Tissue Proffesional Series",
+
+    "category":{"name":"Consumer Goods", 
+      "_id":"16"
+     },
+  
+    "manufacture_details": {
+    "model_number":"A123X",
+    "maufacture":"Georgia-Pacific Consumer Pvt. Ltd.",
+    "city":"Atlanta",
+    "State": "GA",
+    "release_date": "2020-05-01 10:14:15.656 "
+    },
+  
+    "shipping_details": {
+      "weight": 1,
+      "width":7.6,
+      "height": 8.8,
+      "size": 96
+    },
+  
+    "quantity": 200,
+     "price": 4.99
+    
+  }
+
+
+  { 
+    "_id":"5",
+    "sku": "094733075893",
+    "title": "Hand Warmers",
+    "description:":"Hothands Hand Warmers.",
+
+    "category":{"name":"Consumer Goods", 
+      "_id":"16"
+     },
+  
+    "manufacture_details": {
+    "model_number":"A123X",
+    "maufacture":"KOBAYASHI Consumer Products, LLC.",
+    "city":"dalton",
+    "State": "GA",
+    "release_date": "2008-05-17 08:14:15.656 "
+    },
+  
+    "shipping_details": {
+      "weight": 350,
+      "width": 46.7,
+      "height": 41,
+      "size": 18
+    },
+  
+    "quantity": 99,
+      "price": 12.99
+    
+  }
